@@ -21,7 +21,7 @@ My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Un
 
 <div align="center">
    <a href="https://github.com/sofiavvb">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sofiavvb&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="175em" src="https://github-readme-stats-rho-one-96.vercel.app/api?username=sofiavvb&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
    </a>
 </div>
 

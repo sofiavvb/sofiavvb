@@ -16,7 +16,7 @@ My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Un
 - 🔍 Passionately curious
 - 🎵 Music lover
 - 📚 Really love to learn new things and to challenge myself
-- 🖥️ Currently, I'm learning more about ROS and Java
+- 🖥️ Currently, I'm learning more about web development!
 ---
 
 <div align="center">

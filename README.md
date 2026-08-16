@@ -1,7 +1,7 @@
 ## Hey! 👋
 
 
-My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Unicamp 📚. I'm also a student at **Apple Developer Academy** 🍎, an undergraduate researcher in Operations Research and I'm studying more about competitive programming.
+My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Unicamp 📚. I'm also a student and an Ambassador at the **Apple Developer Academy** 🍎, and I'm studying more about machine learning and competitive programming.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiavvb/sofiavvb/output/github-contribution-grid-snake-dark.svg">
@@ -15,7 +15,7 @@ My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Un
 - 💡 Technology and Innovation enthusiast
 - 🔍 Passionately curious
 - 📚 I love to learn new things and to challenge myself
-- 🖥️ Currently, I'm learning more about iOS development, operations research and competitive programming!
+- 🖥️ Currently, I'm learning more about iOS development, machine learning and competitive programming!
 ---
 
 <div align="center">

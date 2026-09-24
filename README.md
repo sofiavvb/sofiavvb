@@ -1,7 +1,7 @@
 ## Hey! 👋
 
 
-My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Unicamp 📚. I'm also a student and an Ambassador at the **Apple Developer Academy** 🍎, and I'm studying more about machine learning and competitive programming.
+My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Unicamp 📚. I'm also a student and an Ambassador at the **Apple Developer Academy** 🍎, and I'm studying more about AI/ML and iOS Development.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiavvb/sofiavvb/output/github-contribution-grid-snake-dark.svg">

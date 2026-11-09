@@ -5,7 +5,7 @@ My name is **Sofia Valverde** and I'm a **Computer Engineering** undergrad at Un
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiavvb/sofiavvb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sofiavvb/Ysofiavvb/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sofiavvb/sofiavvb/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sofiavvb/sofiavvb/output/github-contribution-grid-snake.svg">
 </picture>
 
